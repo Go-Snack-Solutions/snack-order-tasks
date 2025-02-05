@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_TO-DO/001 (kitchen-api) Criar o projeto.md",
+                "file": "1_TO-DO/008 (snack-order-api).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 (kitchen-api) Criar o projeto"
+              "title": "008 (snack-order-api)"
             }
           }
         ]
@@ -168,9 +168,10 @@
   },
   "active": "3e7cec47d11bdcb9",
   "lastOpenFiles": [
+    "1_TO-DO/001 (kitchen-api) Criar o projeto.md",
+    "1_TO-DO/008 (snack-order-api).md",
     "3_DONE/Teste 2.md",
     "2_DOING/Teste.md",
-    "1_TO-DO/001 (kitchen-api) Criar o projeto.md",
     "1_TO-DO/001 (snack-order-dockerized) - Adicionar Kafka aos Scripts no Dockerizado.md",
     "3_DONE",
     "2_DOING",
