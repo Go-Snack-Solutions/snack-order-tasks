@@ -1,1 +1,1 @@
-- Nossa aplicação já está começando
+- Nossa aplicação já está começando a ficar com um porte legal
