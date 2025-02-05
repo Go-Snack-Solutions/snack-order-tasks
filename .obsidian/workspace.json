@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1_TO-DO/Untitled.md",
+                "file": "1_TO-DO/009 (snack-order-api) Criação de testes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "009 (snack-order-api) Criação de testes"
             }
           }
         ]
@@ -168,8 +168,8 @@
   },
   "active": "3e7cec47d11bdcb9",
   "lastOpenFiles": [
-    "1_TO-DO/008 (snack-order-api).md",
-    "1_TO-DO/Untitled.md",
+    "1_TO-DO/008 (snack-order-api) Criação de colunas no banco de dados.md",
+    "1_TO-DO/009 (snack-order-api) Criação de testes.md",
     "1_TO-DO/001 (kitchen-api) Criar o projeto.md",
     "3_DONE/Teste 2.md",
     "2_DOING/Teste.md",
