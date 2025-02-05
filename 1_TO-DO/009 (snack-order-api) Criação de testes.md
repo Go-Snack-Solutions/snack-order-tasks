@@ -4,4 +4,4 @@
 	- criar testes para todos os métodos:
 		- controller
 		- service
-		- 
+	- testar cenários positivos e negativos
