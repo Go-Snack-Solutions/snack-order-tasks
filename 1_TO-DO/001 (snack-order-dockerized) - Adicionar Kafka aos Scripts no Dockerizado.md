@@ -1,0 +1,1 @@
+- Adicionar o docker-compose do Kafka ao script start da pasta script-bat
