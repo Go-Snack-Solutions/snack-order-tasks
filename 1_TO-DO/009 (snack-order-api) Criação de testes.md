@@ -1,2 +1,7 @@
 - Nossa aplicação já está começando a ficar com um porte legal
-- Precisamos começar a 
+- Precisamos começar a nos preocupar com testes
+- Vamos começar com testes unitários
+	- criar testes para todos os métodos:
+		- controller
+		- service
+		- 
