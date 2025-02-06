@@ -12,3 +12,4 @@
 	- basta clonar em sua máquina
 	- fazer o download do projeto no start spring
 	- colocar dentro da pasta do projeto e subir para o github
+   
