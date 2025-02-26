@@ -1,0 +1,2 @@
+- Criar frontend da api delivery-api
+    - testar a conexão com o frontend e atestar que está funcionando
