@@ -1,0 +1,3 @@
+ - Criar toda a estrutura de criação da conexão do Kafka
+    - Olhar o exemplo na branch: 001_creating-kafka-consumer  no projeto kitchen-api
+    - Basicamente é copiar o que foi feito lá

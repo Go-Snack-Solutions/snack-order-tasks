@@ -1,0 +1,5 @@
+- Criar regra de atualização do pedido
+    - a regra deve ser a seguinte:
+      - O pedido só pode ser atualizado enquanto estiver no status antes da preparação pela cozinha
+      - Se o pedido estiver em preparação pela cozinha e o cliente tentar atualizar, deve se dar uma mensagem: "entre em contato com o restaurante"
+      - Obs: mais pra frente podemos ver para não deixar atualizar apenas quando for mexer em algum lanche, no caso permitiriamos adição de novos lanches e refrigerantes por exemplo.

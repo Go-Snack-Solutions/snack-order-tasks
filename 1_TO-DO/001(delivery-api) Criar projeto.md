@@ -1,0 +1,2 @@
+- Criar o projeto de delivery
+  - deve ter a mesma estrutura do projeto kitchen-api
